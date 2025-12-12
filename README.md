@@ -24,7 +24,7 @@ Before installing WPI-BLDC, ensure you have the following:
 
 3. **REV Hardware Client**: [REV Hardware Client Download](https://docs.revrobotics.com/rev-hardware-client/)
 
-4. **RoboRIO Imaging**: [Imaging Your RoboRIO Guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/imaging-your-roborio.html)
+4. **RoboRIO Imaging**: [Imaging Your RoboRIO Guide](https://frcdocs.wpi.edu/en/2022/docs/software/roborio-info/roborio2-imaging.html)
 
 *NOTE: MAKE SURE ALL THE SOFTWARE IS ON THE LATEST VERSION*
 
